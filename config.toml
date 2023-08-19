@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blogscmd.github.io/'
 theme = "PaperMod"
 [markup.goldmark.renderer]
   unsafe = true

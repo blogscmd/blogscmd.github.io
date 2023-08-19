@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+theme = "PaperMod"
+[markup.goldmark.renderer]
+  unsafe = true
+
+languageCode = 'en-us'
+title = 'My New Hugo Site'

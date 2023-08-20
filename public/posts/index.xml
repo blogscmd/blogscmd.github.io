@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on </title>
     <link>https://blogscmd.github.io/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://blogscmd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi segundo post :pruebas:lingüística:@Lengua</title>
+      <link>https://blogscmd.github.io/posts/mi-segundo-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blogscmd.github.io/posts/mi-segundo-post/</guid>
+      <description>En este post intento probar cosas nuevas, como las citas (Chomsky [2016] 2020).
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Chomsky, Noam. (2016) 2020. ¿Qué Clase de Criaturas Somos? 4th ed. Barcelona: Ariel.  </description>
+    </item>
+    
     <item>
       <title>My first post</title>
       <link>https://blogscmd.github.io/posts/my-first-post/</link>

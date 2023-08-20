@@ -1,11 +1,12 @@
 baseURL = 'https://blogscmd.github.io/'
 # theme = "ananke"
 theme = "PaperMod"
-[markup.goldmark.renderer]
-  unsafe = true
-
+language = 'es'
 languageCode = 'es'
 title = 'El cálamo y la luz'
 
 comments = true
 hideFooter = true
+[markup.goldmark.renderer]
+  unsafe = true
+

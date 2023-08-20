@@ -1,6 +1,8 @@
 +++
-title = "Mi segundo post :pruebas:@Lengua"
+title = "Mi segundo post"
 author = ["Carlos Martínez-Domingo"]
+tags = ["pruebas"]
+categories = ["Lengua"]
 draft = false
 +++
 

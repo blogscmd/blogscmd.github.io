@@ -10,7 +10,7 @@
 :END:
 This is my post body
 
-* DONE Mi segundo post :pruebas:@Lengua
+* DONE Mi segundo post :pruebas:@Lengua:
 :PROPERTIES:
 :EXPORT_FILE_NAME: mi-segundo-post
 :EXPORT_LANGUAGE: es

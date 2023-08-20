@@ -5,8 +5,9 @@ language = 'es'
 languageCode = 'es'
 title = 'El cálamo y la luz'
 
-comments = 'true'
-hideFooter = 'true'
+comments = true
+hideFooter = true
+
 [markup.goldmark.renderer]
   unsafe = true
 

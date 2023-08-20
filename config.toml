@@ -2,6 +2,9 @@ baseURL = 'https://blogscmd.github.io/'
 theme = "PaperMod"
 [markup.goldmark.renderer]
   unsafe = true
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
 
 languageCode = 'en-us'
 title = 'My New Hugo Site'

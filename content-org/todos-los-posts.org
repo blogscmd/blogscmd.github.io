@@ -3,7 +3,7 @@
 
 * DONE My first post :tag1:@category1:
 :PROPERTIES:
-:EXPORT_FILE_NAME: my-first-post
+:EXPORT_FILE_NAME: 1-my-first-post
 :END:
 :LOGBOOK:
 - State "DONE"       from              [2023-08-20 dom 14:10]
@@ -12,7 +12,7 @@ This is my post body
 
 * DONE Mi segundo post :pruebas:@lengua:
 :PROPERTIES:
-:EXPORT_FILE_NAME: mi-segundo-post
+:EXPORT_FILE_NAME: 2-mi-segundo-post
 :END:
 :LOGBOOK:
 - State "DONE"       from "[X]"        [2023-08-20 dom 14:58]
@@ -26,7 +26,7 @@ En este post intento probar cosas nuevas, como las citas [cite:@chomsky2020qué]
 
 * DONE Tercer post
 :PROPERTIES:
-:EXPORT_FILE_NAME: mi-tercer-post
+:EXPORT_FILE_NAME: 3-mi-tercer-post
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2023-08-20 dom 18:13]

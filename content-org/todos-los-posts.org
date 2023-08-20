@@ -8,3 +8,16 @@
 - State "DONE"       from              [2023-08-20 dom 14:10]
 :END:
 This is my post body
+* DONE Mi segundo post :pruebas:lingüística:@Lengua
+:PROPERTIES:
+:EXPORT_FILE_NAME: mi-segundo-post
+:END:
+:LOGBOOK:
+- State "DONE"       from "[X]"        [2023-08-20 dom 14:58]
+- State "[X]"        from              [2023-08-20 dom 14:57]
+- State "TODO"       from              [2023-08-20 dom 14:56]
+:END:
+
+En este post intento probar cosas nuevas, como las citas [cite:@chomsky2020qué].
+
+#+print_bibliography:

@@ -1,4 +1,5 @@
 #+hugo_base_dir: ../
+#+language: es
 
 * DONE My first post :tag1:@category1:
 :PROPERTIES:

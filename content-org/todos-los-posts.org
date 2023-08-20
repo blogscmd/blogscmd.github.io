@@ -23,6 +23,7 @@ This is my post body
 En este post intento probar cosas nuevas, como las citas [cite:@chomsky2020qué].
 
 #+print_bibliography:
+
 * DONE Tercer post
 :PROPERTIES:
 :EXPORT_FILE_NAME: mi-tercer-post
@@ -35,14 +36,17 @@ Vamos a ver cómo queda una lista:
 - Hola
 - hasta luego.
 
+Una cita:
 #+begin_quote
   Adiós, Don Pepito
 #+end_quote
 
+Un poco de código:
 #+begin_src sh
 mkdir carpet/
   #+end_src
 
+Ahora unos versos:
 #+begin_verse
 Como el ciervo huiste
 habiéndome herido

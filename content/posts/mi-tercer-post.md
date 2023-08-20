@@ -9,11 +9,17 @@ Vamos a ver cómo queda una lista:
 -   Hola
 -   hasta luego.
 
+Una cita:
+
 > Adiós, Don Pepito
+
+Un poco de código:
 
 ```sh
 mkdir carpet/
 ```
+
+Ahora unos versos:
 
 <div class="verse">
 

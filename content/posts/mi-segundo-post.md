@@ -2,7 +2,7 @@
 title = "Mi segundo post"
 author = ["Carlos Martínez-Domingo"]
 tags = ["pruebas"]
-categories = ["Lengua"]
+categories = ["lengua"]
 draft = false
 +++
 

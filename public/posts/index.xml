@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on El cálamo y la luz</title>
     <link>https://blogscmd.github.io/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://blogscmd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Posts on El cálamo y la luz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="https://blogscmd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi segundo post :pruebas:@Lengua</title>
+      <title>Mi segundo post</title>
       <link>https://blogscmd.github.io/posts/mi-segundo-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -22,6 +23,21 @@ Referencias .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Chomsky, Noam. (
       
       <guid>https://blogscmd.github.io/posts/my-first-post/</guid>
       <description>This is my post body</description>
+    </item>
+    
+    <item>
+      <title>Tercer post</title>
+      <link>https://blogscmd.github.io/posts/mi-tercer-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blogscmd.github.io/posts/mi-tercer-post/</guid>
+      <description>Vamos a ver cómo queda una lista:
+ Hola hasta luego.   Adiós, Don Pepito
+ mkdir carpet/ Como el ciervo huiste
+habiéndome herido
+salí tras ti clamando
+y eras ido.
+ </description>
     </item>
     
   </channel>

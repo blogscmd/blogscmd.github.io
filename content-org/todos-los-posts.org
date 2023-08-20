@@ -24,3 +24,29 @@ This is my post body
 En este post intento probar cosas nuevas, como las citas [cite:@chomsky2020qué].
 
 #+print_bibliography:
+* DONE Tercer post
+:PROPERTIES:
+:EXPORT_FILE_NAME: mi-tercer-post
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2023-08-20 dom 18:13]
+:END:
+
+Vamos a ver cómo queda una lista:
+- Hola
+- hasta luego.
+
+#+begin_quote
+  Adiós, Don Pepito
+#+end_quote
+
+#+begin_src sh
+mkdir carpet/
+  #+end_src
+
+#+begin_verse
+Como el ciervo huiste
+habiéndome herido
+salí tras ti clamando
+y eras ido.
+#+end_verse

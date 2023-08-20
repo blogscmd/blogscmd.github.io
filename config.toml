@@ -4,5 +4,5 @@ theme = "PaperMod"
 [markup.goldmark.renderer]
   unsafe = true
 
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'es'
+title = 'El cálamo y la luz'

@@ -6,3 +6,6 @@ theme = "PaperMod"
 
 languageCode = 'es'
 title = 'El cálamo y la luz'
+
+comments = true
+hideFooter = true

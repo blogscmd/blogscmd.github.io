@@ -4,5 +4,5 @@ theme = "PaperMod"
 [markup.goldmark.renderer]
   unsafe = true
 
-languageCode = 'es'
+languageCode = 'es-es'
 title = 'El cálamo y la luz'

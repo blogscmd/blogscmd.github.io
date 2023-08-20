@@ -1,5 +1,5 @@
 +++
-title = "Mi segundo post :pruebas:lingüística:@Lengua"
+title = "Mi segundo post :pruebas:@Lengua"
 author = ["Carlos Martínez-Domingo"]
 draft = false
 +++

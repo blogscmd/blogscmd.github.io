@@ -1,8 +1,0 @@
-baseURL = 'https://blogscmd.github.io/'
-# theme = "ananke"
-theme = "PaperMod"
-[markup.goldmark.renderer]
-  unsafe = true
-
-languageCode = 'en-us'
-title = 'My New Hugo Site'

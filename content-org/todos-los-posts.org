@@ -1,0 +1,10 @@
+#+hugo_base_dir: ../
+
+* DONE My first post :tag1:@category1:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-20 dom 14:10]
+:END:
+This is my post body

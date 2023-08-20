@@ -1,5 +1,5 @@
 baseURL = 'https://blogscmd.github.io/'
-theme = "PaperMod"
+theme = "ananke"
 [markup.goldmark.renderer]
   unsafe = true
 [module]
